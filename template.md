@@ -20,12 +20,12 @@
 
 ---
 
-Supporting material:
+_Supporting materials_:
 
-Concept checking questions:
+_Concept checking questions_:
 
 1.
 2.
 3.
 
-Further reading:
+_Further reading_:
