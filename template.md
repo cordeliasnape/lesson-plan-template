@@ -16,7 +16,7 @@
 4.
 5.
 
-#### _Real-life use case_ -
+_Real-life use case_ -
 
 ---
 
@@ -29,3 +29,11 @@ _Concept checking questions_:
 3.
 
 _Further reading_:
+
+---
+
+_Is it possible to collaborate with others?_
+Yes/No
+
+_How big is this task?_
+XS/S/M/L/XL
